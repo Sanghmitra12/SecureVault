@@ -87,6 +87,7 @@ USE securevault;
 
 - ✅ Fully Functional
 - ✅ Database Connected
+- 🚧 SecureVault is presently a desktop application. Development is in progress to transform it into a fully functional web application.
 - 🔄 Future Scope:
      - Build a SecureVault Web Version (Spring Boot + React/HTML) to make it accessible online via Vercel, Render, or Cloud servers.
 
