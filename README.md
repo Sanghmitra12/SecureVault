@@ -87,12 +87,13 @@ USE securevault;
 
 - ✅ Fully Functional
 - ✅ Database Connected
-- 🔄 Future Scope: Build a SecureVault Web Version (Spring Boot + React/HTML)
+- 🔄 Future Scope:
+     - Build a SecureVault Web Version (Spring Boot + React/HTML) to make it accessible online via Vercel, Render, or Cloud servers.
 
   
 ---
  ##  🙌 Thank you for visiting!
  - Feel free to fork, contribute, or raise issues!
-
+ - Contributions are always welcome!
 
 
